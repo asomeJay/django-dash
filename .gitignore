@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 mysites/
 mysite/
+mysite
+mysites
